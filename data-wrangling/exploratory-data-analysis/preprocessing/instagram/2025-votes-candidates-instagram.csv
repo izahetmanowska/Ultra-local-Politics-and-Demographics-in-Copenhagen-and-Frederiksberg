@@ -1,0 +1,411 @@
+Bogstavbetegnelse_x,Listenavn,Navn,Stemmetal,Bogstavbetegnelse_y,Rank,Instagram Tag,Follower Count,Number of Posts,missing_followers,missing_posts,municipality
+A,Socialdemokratiet,Andreas Keil,960,A,2.0,brandmandkeil,832.0,32.0,False,False,Copenhagen
+A,Socialdemokratiet,Asbjørn Reissmann,375,A,24.0,asbjornreissmann,431.0,27.0,False,False,Copenhagen
+A,Socialdemokratiet,Christoffer Rosenkrands,130,A,21.0,rosenkrandschristoffer,133.0,2.0,False,False,Copenhagen
+A,Socialdemokratiet,Edith Chenga Chamwi,189,A,19.0,edithchamwi,142.0,0.0,False,False,Copenhagen
+A,Socialdemokratiet,Emery Karatasi,87,A,23.0,emmerk84,491.0,61.0,False,False,Copenhagen
+A,Socialdemokratiet,Emilla Møller,458,A,13.0,emillamoller,1137.0,443.0,False,False,Copenhagen
+A,Socialdemokratiet,Gitte Kristensen,79,A,17.0,gitte.sund.ku,281.0,9.0,False,False,Copenhagen
+A,Socialdemokratiet,Hari Neupane,501,A,25.0,harineupane007,347.0,29.0,False,False,Copenhagen
+A,Socialdemokratiet,Helle Stolberg,533,A,7.0,socialdemokraten.fra.valby,480.0,158.0,False,False,Copenhagen
+A,Socialdemokratiet,Jakob Hougaard,445,A,4.0,jakekbh,679.0,73.0,False,False,Copenhagen
+A,Socialdemokratiet,Jakob Thiemann,153,A,12.0,jakobthiemann,535.0,268.0,False,False,Copenhagen
+A,Socialdemokratiet,Jens Fisker Carlsbæk,132,A,16.0,jenscarlsbaek,415.0,107.0,False,False,Copenhagen
+A,Socialdemokratiet,Jonas Manthey Olsen,545,A,14.0,jonasmantheyolsen,1265.0,219.0,False,False,Copenhagen
+A,Socialdemokratiet,Kasper Stisen,976,A,20.0,kasperstisen,1372.0,212.0,False,False,Copenhagen
+A,Socialdemokratiet,Kim Christensen,52,A,27.0,-,,,True,True,Copenhagen
+A,Socialdemokratiet,Lars Aslan Rasmussen,4656,A,10.0,lars_aslan,1123.0,256.0,False,False,Copenhagen
+A,Socialdemokratiet,Laura Rosenvinge,1349,A,3.0,laurarosenvinge,1660.0,459.0,False,False,Copenhagen
+A,Socialdemokratiet,Lauritz Ziethen,108,A,22.0,lauritzziethen,239.0,23.0,False,False,Copenhagen
+A,Socialdemokratiet,Line Kjær Christensen,134,A,29.0,linekjaerc,292.0,22.0,False,False,Copenhagen
+A,Socialdemokratiet,Mads S. B. Pedersen,331,A,26.0,madssbpedersen,463.0,636.0,False,False,Copenhagen
+A,Socialdemokratiet,Maria Gudme,257,A,15.0,mariagudme,1666.0,922.0,False,False,Copenhagen
+A,Socialdemokratiet,Maria Kornbek,444,A,5.0,mariakornbek,131.0,107.0,False,False,Copenhagen
+A,Socialdemokratiet,Mathias Niebuhr,306,A,6.0,mkniebuhr,2382.0,324.0,False,False,Copenhagen
+A,Socialdemokratiet,Mette Reissmann,1170,A,11.0,mette.reissmann,2416.0,1272.0,False,False,Copenhagen
+A,Socialdemokratiet,Niels E. Bjerrum,587,A,8.0,nielse.bjerrum,373.0,999.0,False,False,Copenhagen
+A,Socialdemokratiet,Pernille Rosenkrantz-Theil,11808,A,1.0,pernillerosenkrantztheil,12400.0,1154.0,False,False,Copenhagen
+A,Socialdemokratiet,Rasmus Toftholm,125,A,28.0,rasmus_toftholm,63.0,1.0,False,False,Copenhagen
+A,Socialdemokratiet,Stig Ekman,107,A,18.0,stig.ekman,233.0,38.0,False,False,Copenhagen
+A,Socialdemokratiet,Ulla Krag,789,A,30.0,ulla_krag,700.0,352.0,False,False,Copenhagen
+A,Socialdemokratiet,Yildiz Akdogan,959,A,9.0,yildiz_akdogan,2704.0,1706.0,False,False,Copenhagen
+B,Radikale Venstre,Alina Protsyk,281,B,11.0,alinaprotsyk,616.0,250.0,False,False,Copenhagen
+B,Radikale Venstre,Allan Nyhus,244,B,15.0,allannyhus,314.0,170.0,False,False,Copenhagen
+B,Radikale Venstre,Christopher Røhl,6119,B,1.0,rohlchristopher,1765.0,1365.0,False,False,Copenhagen
+B,Radikale Venstre,Dan Kreutzfeldt,232,B,7.0,dankreutzfeldt,703.0,853.0,False,False,Copenhagen
+B,Radikale Venstre,Emil Moselund,1493,B,5.0,emilmoselund,960.0,161.0,False,False,Copenhagen
+B,Radikale Venstre,Frederikke Alban,584,B,8.0,frederikke_alban,169.0,43.0,False,False,Copenhagen
+B,Radikale Venstre,Jakob Skyggebjerg,2573,B,3.0,jakobskygge,2073.0,43.0,False,False,Copenhagen
+B,Radikale Venstre,Kashif Ahmad,1554,B,6.0,kashifahmaddk,6894.0,1042.0,False,False,Copenhagen
+B,Radikale Venstre,Kim Mandix,460,B,9.0,kim.mandix,304.0,409.0,False,False,Copenhagen
+B,Radikale Venstre,Kristina Westerberg Thomsen,1270,B,16.0,kristinawthomsen,445.0,37.0,False,False,Copenhagen
+B,Radikale Venstre,Kristine Ammitzbøll-Bille,3780,B,2.0,ammitzboellbille,887.0,121.0,False,False,Copenhagen
+B,Radikale Venstre,Lartey Lawson,228,B,13.0,larteylawsondk,990.0,103.0,False,False,Copenhagen
+B,Radikale Venstre,Martin Schepelern,441,B,12.0,martinschepelern,156.0,37.0,False,False,Copenhagen
+B,Radikale Venstre,Sara Julie Sørensen,659,B,14.0,sarajsorensen,708.0,18.0,False,False,Copenhagen
+B,Radikale Venstre,Susanne Wad Leth,516,B,10.0,susanne.wad.leth,52.0,1.0,False,False,Copenhagen
+B,Radikale Venstre,Thomas Markmann,746,B,4.0,markmann.thomas,763.0,155.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Anders Løve Kyhl,192,C,11.0,anders_loeve_kyhl_konservative,120.0,14.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Andreas Petersen,193,C,10.0,andreas.petersen.kandidat2025,87.0,21.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Casper Øhlers,1392,C,9.0,casperohlers,2805.0,167.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Cecilie Iwang,203,C,29.0,cecilie_iwang,995.0,58.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Chris Hvid Hansen,53,C,27.0,chrishvidhansen,178.0,7.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Christian Hesselberg,31,C,22.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Dagmar Damm,224,C,15.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Dan Pedersen,94,C,18.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,David Grolin Kristensen,82,C,12.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Helene Fagerhøj,434,C,19.0,helene_fagerhoj,1945.0,126.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Helle Bonnesen,2557,C,7.0,hellebonnesen,989.0,731.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Henning Schøneberg Kastbjerg,35,C,23.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Ida Busk,218,C,17.0,buzg,282.0,474.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Jakob Næsager,10944,C,1.0,borgmesterjakobnaesager,768.0,58.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Jens Wedenborg,368,C,13.0,wedenborg,296.0,149.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Kirsten Bjerregaard Kristiansen,131,C,24.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Lasse Vogel Andersen,59,C,16.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Line Ervolder,1228,C,5.0,lineervolder,749.0,120.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Mathilde Kastbjerg,1281,C,2.0,mathildekastbjerg.kbh,573.0,45.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Morten Melchiors,793,C,3.0,morten_melchiors_kbh,151.0,360.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Niels Peder Ravn,686,C,4.0,niels_peder_ravn,650.0,776.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Nikolai Ellegaard Sørensen,86,C,28.0,nikolai_ellegaard,165.0,0.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Ole Normann Buch,313,C,8.0,ole_buch,360.0,82.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Peter Bisgaard,94,C,20.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Pia Kolind Nielsen,229,C,21.0,pipsydk,66.0,2.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Rasmus Bjergegaard,504,C,14.0,rasmusbjergegaard,49.0,4.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Sigurd Hebo Lønholdt,196,C,6.0,sofieheboloenholdt,388.0,48.0,False,False,Copenhagen
+C,Det Konservative Folkeparti,Susanne Møller,130,C,30.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Thor Lykke Sørensen,129,C,25.0,-,,,True,True,Copenhagen
+C,Det Konservative Folkeparti,Tim Hvolgaard,82,C,26.0,-,,,True,True,Copenhagen
+D,Nye Borgerlige,Anahita Malakians,145,D,1.0,anahitamalakians,1589.0,375.0,False,False,Copenhagen
+E,KaosTV,Karl Villemoes,55,E,1.0,karl_villemoes,31.0,0.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Astrid Aller,3671,F,2.0,astridaller_sf,1708.0,302.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Benjamin Friis,62,F,25.0,benjaminfriis,253.0,463.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Birgitte Langballe,100,F,22.0,birgitteruns,607.0,196.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Christian Ingemann,669,F,6.0,christian.ingemann,552.0,94.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Hellen Hedemann,103,F,23.0,-,,,True,True,Copenhagen
+F,SF - Socialistisk Folkeparti,Ida Theodora Wolf Berendsen,266,F,18.0,idatheodorawolfberendsensf,37.0,3.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Irina Frost,747,F,11.0,irinafrost23,281.0,153.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Joakim Lindahl,179,F,13.0,joakimlindhl,448.0,14.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Karoline Vind,396,F,24.0,karolinevind,869.0,1163.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Klaus Mygind,1151,F,4.0,klausmygind,318.0,38.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Lone Kathrine Pedersen,430,F,16.0,lone_kathrine_pedersen,194.0,116.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Mads Balslev Hansen,507,F,7.0,madsbalslevhansensf,358.0,69.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Mads Hvid,965,F,10.0,m.hvid,821.0,783.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Mads Mikkel Dragholt,1371,F,12.0,madsmikkeldragholt,510.0,48.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Maria Frej,609,F,8.0,-,,,True,True,Copenhagen
+F,SF - Socialistisk Folkeparti,Marie Blønd,391,F,15.0,instamarieblond,621.0,800.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Morten Bering,103,F,20.0,-,,,True,True,Copenhagen
+F,SF - Socialistisk Folkeparti,Peder Holk Svendsen,101,F,21.0,pedersvendsen,348.0,230.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Rasmus Steenberger,1890,F,3.0,rasmussteenberger,1147.0,573.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Rune Palm,298,F,17.0,runepalm_sf,204.0,3.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Sisse Marie Welling,20924,F,1.0,sissemariewelling,3004.0,413.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Sonja Agerbæk,997,F,5.0,sonjaagerbaek,1001.0,69.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Thomas Warburg,302,F,14.0,warburgthomas,256.0,741.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Tobias Zimling,300,F,19.0,tobias_zimling,72.0,7.0,False,False,Copenhagen
+F,SF - Socialistisk Folkeparti,Yilmaz Yildiz,495,F,9.0,yilmaz.yildiz1973,233.0,75.0,False,False,Copenhagen
+I,Liberal Alliance,Alexander Ryle,3703,I,1.0,alexanderryle,2496.0,931.0,False,False,Copenhagen
+I,Liberal Alliance,Carsten Abildtrup Ranum,68,I,9.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Charlotte Frejlev,445,I,5.0,charlottefrejlev,523.0,83.0,False,False,Copenhagen
+I,Liberal Alliance,Christian Erdmann,11,I,15.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Claus Franck,12,I,16.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Jens Kier,106,I,10.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Joanne Bywater,600,I,3.0,joannebywater_la,488.0,228.0,False,False,Copenhagen
+I,Liberal Alliance,John Michael Jensen,88,I,7.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Karen West,42,I,14.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Lasse Mandal,460,I,6.0,lassemandal,274.0,27.0,False,False,Copenhagen
+I,Liberal Alliance,Laura Emilie Fabricius-Lauritzen,222,I,11.0,liberale_laura,88.0,3.0,False,False,Copenhagen
+I,Liberal Alliance,Michele Fejø,22,I,8.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Oscar Ferraro,56,I,4.0,oscar__ferraro,708.0,23.0,False,False,Copenhagen
+I,Liberal Alliance,Poul R. Johansen,10,I,17.0,-,,,True,True,Copenhagen
+I,Liberal Alliance,Signe Bøgevald,1452,I,2.0,signeboegevald,2662.0,556.0,False,False,Copenhagen
+I,Liberal Alliance,Thomas Hovard,199,I,13.0,hovard,343.0,139.0,False,False,Copenhagen
+I,Liberal Alliance,Torben Guldbæk,288,I,12.0,-,,,True,True,Copenhagen
+J,Hampepartiet,Klaus Trier Tuxen,277,J,1.0,tuxenk,255.0,33.0,False,False,Copenhagen
+K,Kristendemokraterne,Bess Serner-Pedersen,105,K,4.0,-,,,True,True,Copenhagen
+K,Kristendemokraterne,Jesper Housgaard,170,K,1.0,jesper_housgaard_kd,466.0,552.0,False,False,Copenhagen
+K,Kristendemokraterne,Jesper Truelsen,37,K,3.0,-,,,True,True,Copenhagen
+K,Kristendemokraterne,Sofie Amalie Elkjær,181,K,2.0,sofieamalieelkjaer,31900.0,272.0,False,False,Copenhagen
+L,Lokallisten - København,Birthe Sørensen,14,L,4.0,-,,,True,True,Copenhagen
+L,Lokallisten - København,Elsebeth Wehage,13,L,3.0,elsebethwehage,27.0,0.0,False,False,Copenhagen
+L,Lokallisten - København,Jesper Balle,51,L,2.0,jesperballekristensen,138.0,37.0,False,False,Copenhagen
+L,Lokallisten - København,Pelle Jandrup,29,L,1.0,lokallisten_kbh,28.0,6.0,False,False,Copenhagen
+M,Moderaterne,Anders Axelsen,128,M,6.0,anders.axelsen,112.0,7.0,False,False,Copenhagen
+M,Moderaterne,Andreas Raben,229,M,5.0,andreasraben,750.0,39.0,False,False,Copenhagen
+M,Moderaterne,Asger Hagelund,120,M,9.0,asger.hagelund,253.0,59.0,False,False,Copenhagen
+M,Moderaterne,Casper Hedegaard,71,M,10.0,casper_hedegaard_,966.0,244.0,False,False,Copenhagen
+M,Moderaterne,Dorthe Beck-Nyling,112,M,2.0,becknyling,230.0,19.0,False,False,Copenhagen
+M,Moderaterne,Ellen Emilie,1527,M,1.0,ellenemilie_,1316.0,160.0,False,False,Copenhagen
+M,Moderaterne,Kim Laursen,274,M,3.0,kimlaursenofficial,101.0,27.0,False,False,Copenhagen
+M,Moderaterne,Nico Blier-Silvestri,161,M,7.0,-,,,True,True,Copenhagen
+M,Moderaterne,Simon Boje Groth,72,M,8.0,simongroth1,190.0,53.0,False,False,Copenhagen
+M,Moderaterne,Thomas Sichelkow,317,M,4.0,thomassichelkow,100.0,34.0,False,False,Copenhagen
+N,Demokraterne - hele Danmark skal leve,Lave Knud Broch,105,N,2.0,-,,,True,True,Copenhagen
+N,Demokraterne - hele Danmark skal leve,Michaell Ravn,85,N,1.0,demokraterne.nu,12.0,6.0,False,False,Copenhagen
+O,Dansk Folkeparti,Christian Bülow,443,O,2.0,christian_bulow,1396.0,56.0,False,False,Copenhagen
+O,Dansk Folkeparti,Ivan Hemmingsen,105,O,6.0,vangelliss,585.0,460.0,False,False,Copenhagen
+O,Dansk Folkeparti,Jesper Pedersen,161,O,5.0,-,,,True,True,Copenhagen
+O,Dansk Folkeparti,Kirsten Berthelsen,77,O,10.0,-,,,True,True,Copenhagen
+O,Dansk Folkeparti,Lars Vestergaard,272,O,3.0,lars_vestergaard_,534.0,362.0,False,False,Copenhagen
+O,Dansk Folkeparti,Laust Andersen,22,O,7.0,-,,,True,True,Copenhagen
+O,Dansk Folkeparti,Lise de Molade,172,O,4.0,-,,,True,True,Copenhagen
+O,Dansk Folkeparti,Mikkel Bjørn,5113,O,1.0,mikkelbjornson,1382.0,39.0,False,False,Copenhagen
+O,Dansk Folkeparti,Simone Pi Wagner Christensen,77,O,8.0,-,,,True,True,Copenhagen
+O,Dansk Folkeparti,Søren Bjerg Nielsen,45,O,9.0,-,,,True,True,Copenhagen
+P,DKP - Kommunisterne,Elsebeth Kaufholz,9,P,4.0,-,,,True,True,Copenhagen
+P,DKP - Kommunisterne,Lars Emanuel,36,P,3.0,-,,,True,True,Copenhagen
+P,DKP - Kommunisterne,Preben Flemming Fogelstrøm,12,P,5.0,-,,,True,True,Copenhagen
+P,DKP - Kommunisterne,Rikke G. F. Carlsson,103,P,1.0,-,,,True,True,Copenhagen
+P,DKP - Kommunisterne,Sine Bilfeldt,36,P,2.0,ssbilfeldt,89.0,1.0,False,False,Copenhagen
+P,DKP - Kommunisterne,Steen Jørgensen,13,P,6.0,-,,,True,True,Copenhagen
+Q,Frie Grønne,Asham Agha Nadeem,612,Q,5.0,asham_agha_nadeem,2017.0,238.0,False,False,Copenhagen
+Q,Frie Grønne,Chanett Nguyen,121,Q,11.0,chanettnguyen,133.0,21.0,False,False,Copenhagen
+Q,Frie Grønne,Daniel Tomicic,483,Q,9.0,danieltomic,2216.0,167.0,False,False,Copenhagen
+Q,Frie Grønne,Elise Bjerkrheim,243,Q,3.0,elisebjerkrheim,4078.0,1893.0,False,False,Copenhagen
+Q,Frie Grønne,Hamid El Mousti,37,Q,7.0,hamidelmousti,83.0,0.0,False,False,Copenhagen
+Q,Frie Grønne,Jasmin Kaur,204,Q,8.0,jasminkaur_q,563.0,60.0,False,False,Copenhagen
+Q,Frie Grønne,Laura Hjarvard Raaschou,117,Q,2.0,laurahraaschou,184.0,41.0,False,False,Copenhagen
+Q,Frie Grønne,Rajesh Holmen,259,Q,4.0,rajesh.holmen,1286.0,1037.0,False,False,Copenhagen
+Q,Frie Grønne,Rashid Ali,147,Q,6.0,rashidalifg,858.0,127.0,False,False,Copenhagen
+Q,Frie Grønne,Signe Vad,186,Q,10.0,signeisleaking,884.0,258.0,False,False,Copenhagen
+Q,Frie Grønne,Sikandar Siddique,3125,Q,1.0,sikandarsiddique_,9371.0,1324.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Alma Schifter Lorenzen, Brønshøj",20,R,12.0,alma.schifter,349.0,81.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Brian O'Brien Grønvold, Amager",113,R,1.0,brianobriengronvold,113.0,18.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Christian Nielsen, Nørrebro",28,R,10.0,-,,,True,True,Copenhagen
+R,Kommunistisk Parti,"Elias Haack, Nørrebro",42,R,8.0,-,,,True,True,Copenhagen
+R,Kommunistisk Parti,"Hans Skou, Ydre Nørrebro",42,R,6.0,dr.hanz,778.0,67.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Jan Mathisen, Sydhavn",162,R,2.0,mathisenjan,212.0,20.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Julien Albert Sølling, Sydhavn",26,R,11.0,juliensoelling,466.0,14.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Kris Rønne, Brønshøj",45,R,4.0,krisroenne,20.0,5.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Lin Mortensen, Amager",17,R,7.0,-,,,True,True,Copenhagen
+R,Kommunistisk Parti,"Marc B. Sanganee, Ørestad",33,R,9.0,sanganee.musik,1020.0,241.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Rosa Mørch Jørgensen, Sydhavn",146,R,5.0,rosamoerch,335.0,317.0,False,False,Copenhagen
+R,Kommunistisk Parti,"Rune Jørgensen, Østerbro",45,R,3.0,-,,,True,True,Copenhagen
+T,Skamløse Demokrater,"Anders Stjernholm, Christianshavn",251,T,3.0,andersstjernholm,3493.0,488.0,False,False,Copenhagen
+T,Skamløse Demokrater,"Bjarne Sinkjær, Kongens Enghave",66,T,6.0,-,,,True,True,Copenhagen
+T,Skamløse Demokrater,"Gitte Kirkeby, Brønshøj",14,T,8.0,-,,,True,True,Copenhagen
+T,Skamløse Demokrater,"Jens Christian Storgaard, Nørrebro",35,T,7.0,-,,,True,True,Copenhagen
+T,Skamløse Demokrater,"Linda Gonzalez, Nordvest",26,T,4.0,_lallopat_,496.0,1877.0,False,False,Copenhagen
+T,Skamløse Demokrater,"Terese Vangstrup, Vesterbro",88,T,2.0,terese_vangstrup,126.0,25.0,False,False,Copenhagen
+T,Skamløse Demokrater,"Tobias Gregory, Nørrebro",23,T,5.0,-,,,True,True,Copenhagen
+T,Skamløse Demokrater,"Troels Chr. Jakobsen, Brønshøj",201,T,1.0,troelschr.jakobsen,1280.0,339.0,False,False,Copenhagen
+U,Din stemme i København,Anette Thaulow,61,U,1.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Anders Fausbøll,700,V,12.0,andersfausboll,207.0,50.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Ane Storm,780,V,11.0,anestorm.kbh,188.0,69.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Anna-Cecilie Mandrup,24,V,22.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Asbjørn Meier,139,V,25.0,asbjornmeierpolitiker,426.0,16.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Bent Christoffersen,18,V,19.0,bentchristoffersen,86.0,135.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Bjarke Kværnø,3,V,23.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Cille Egholm,667,V,6.0,cilleegholm,2249.0,121.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Claus Buch,312,V,8.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Claus Ljungberg Jørgensen,75,V,17.0,claudius1969,593.0,361.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Heidi Wang,304,V,7.0,heidiwangdk,854.0,102.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Jens-Kristian Lütken,2335,V,1.0,jklytken,1404.0,926.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Johan Alsøe,60,V,10.0,johan_alsoe,252.0,388.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Jonas Bøssing Nielsen,156,V,20.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Jóhannes Miðskarð,259,V,21.0,midskard,476.0,113.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Kristian Nielsen,70,V,30.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Kåre Traberg Smidt,636,V,4.0,kaaretraberg,639.0,394.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Lena Holm Jensen Lindskog,50,V,18.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Louise Theilade Thomsen,2420,V,2.0,louise_theilade_thomsen,1325.0,322.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Luna Solhave,1718,V,5.0,lunasolhave,1602.0,57.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Malue Henriksen,138,V,29.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Margot Riis,13,V,24.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Marianne Moegreen,508,V,13.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Michael Strand,6,V,27.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Mikael Freitag,40,V,28.0,mikael.freitag,3128.0,218.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Mostafa M. Zaarab,247,V,16.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Nicklas Petterson,325,V,3.0,nicklaspetterson,876.0,24.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Oksana Gjermstad,107,V,26.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Thomas Bak,87,V,15.0,-,,,True,True,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Torben Skytte Raahede,139,V,14.0,raahedetorben,307.0,375.0,False,False,Copenhagen
+V,"Venstre, Danmarks Liberale Parti",Zeynep Bardakci,178,V,9.0,zey.nepbardakci,355.0,7.0,False,False,Copenhagen
+Y,Fælles Fremtid,Khalid Al-Subaihi,125,Y,1.0,-,,,True,True,Copenhagen
+Y,Fælles Fremtid,Sander Pennerup,47,Y,2.0,sanderpennerup,474.0,585.0,False,False,Copenhagen
+Z,Solidarisk Integritet,Stig Jørgensen,73,Z,1.0,stigstigstig,1913.0,151.0,False,False,Copenhagen
+Å,Alternativet,Birgitte Kehler Holst,1149,Å,3.0,birgittekehlerholst,1427.0,1454.0,False,False,Copenhagen
+Å,Alternativet,Catharina Næsby Malkki,547,Å,6.0,-,,,True,True,Copenhagen
+Å,Alternativet,Emil Sloth,796,Å,2.0,emilslothandersen,755.0,96.0,False,False,Copenhagen
+Å,Alternativet,Jakob Ravn Karlsen,368,Å,10.0,-,,,True,True,Copenhagen
+Å,Alternativet,Jiesper Tristan Pedersen,994,Å,5.0,jiespert,551.0,289.0,False,False,Copenhagen
+Å,Alternativet,Johannes Erfurth,75,Å,8.0,-,,,True,True,Copenhagen
+Å,Alternativet,Karoline Lindgaard,5639,Å,1.0,karolinelindgaard,5183.0,197.0,False,False,Copenhagen
+Å,Alternativet,Martin Kjærulff,112,Å,9.0,-,,,True,True,Copenhagen
+Å,Alternativet,Mikkel Bahl,191,Å,7.0,mikkelbahl,542.0,69.0,False,False,Copenhagen
+Å,Alternativet,Per Fabricius Ramsing,222,Å,11.0,-,,,True,True,Copenhagen
+Å,Alternativet,Søren B. Scott,1003,Å,4.0,sorenbscott,388.0,23.0,False,False,Copenhagen
+Æ,Danmarksdemokraterne - Inger Støjberg,Jan-Erik Olsen,60,Æ,3.0,-,,,True,True,Copenhagen
+Æ,Danmarksdemokraterne - Inger Støjberg,Kasper Cederholm,399,Æ,1.0,-,,,True,True,Copenhagen
+Æ,Danmarksdemokraterne - Inger Støjberg,Martin Sibast,210,Æ,2.0,martinsibast,98.0,49.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Absalon Billehøj,890,Ø,21.0,absbillehoj,1012.0,,False,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Amran Daahir Hassan,1096,Ø,14.0,amrandhassan,749.0,5.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Bente Møller,179,Ø,18.0,-,,,True,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Charlotte Lund,956,Ø,5.0,charlottelunddi,318.0,158.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Ella Wiberg,1080,Ø,16.0,_ella_wiberg_,1434.0,73.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Emma Bach,1824,Ø,8.0,emmabach.ehl,822.0,77.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Frederik Kronborg,424,Ø,11.0,-,,,True,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Gorm Anker Gunnarsen,1095,Ø,3.0,-,,,True,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Günay Usta,565,Ø,10.0,gunayusta,850.0,228.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Ingrid Bo Rahbek,538,Ø,22.0,ingridrahbek,981.0,27.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Jean Thierry,231,Ø,15.0,-,,,True,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Jonas Heidari,1155,Ø,19.0,jonasheidari,1155.0,55.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Karina Vestergård Madsen,1445,Ø,2.0,karinavestergard,1222.0,740.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Katrine Hassenkam,794,Ø,12.0,katrinehassenkam,365.0,162.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Klaus Goldschmidt Henriksen,887,Ø,4.0,henriksen.klaus,1075.0,358.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Knud Holt Nielsen,753,Ø,7.0,knud.hnielsen.3,246.0,198.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Line Barfod,18574,Ø,1.0,line.barfod,2330.0,159.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Malte Sauerland-Paulsen,231,Ø,23.0,maltesp,1879.0,92.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Maria Sofie Petersen,1482,Ø,20.0,petersenmariasofie,384.0,45.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Mikkel Skovgaard,540,Ø,6.0,mikkskovgaard,974.0,164.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Reinout Bosch,375,Ø,24.0,-,,,True,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Shukri Hamda Dol,3846,Ø,9.0,shukri.doll,837.0,42.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Sidsel Boertmann Brüel,282,Ø,25.0,-,,,True,True,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Stine Finné Toft,485,Ø,17.0,stine.toft,658.0,276.0,False,False,Copenhagen
+Ø,Enhedslisten - De Rød-Grønne,Thomas Egholm,276,Ø,13.0,thomasegholm,127.0,1.0,False,False,Copenhagen
+A,Socialdemokratiet,Asbjørn Dalgaard,10,A,,-,,,True,True,Frederiksberg
+A,Socialdemokratiet,Bjarne Henriksen,253,A,,bjarnehenriksen1801,5484.0,18.0,False,False,Frederiksberg
+A,Socialdemokratiet,Britt Dam,172,A,,brittzdam,745.0,80.0,False,False,Frederiksberg
+A,Socialdemokratiet,Christina Sylvest-Noer,339,A,,sylvest_noer,2027.0,623.0,False,False,Frederiksberg
+A,Socialdemokratiet,Christine Jørnø Vestergaard,167,A,,vestergaardchristine,178.0,515.0,False,False,Frederiksberg
+A,Socialdemokratiet,Ebbe Wendt Lorenzen,77,A,,ebbelorenzen,332.0,7.0,False,False,Frederiksberg
+A,Socialdemokratiet,Janek Balling Majewicz,87,A,,janekmajewicz,249.0,77.0,False,False,Frederiksberg
+A,Socialdemokratiet,Jasminka Kamic,27,A,,jaskam63,159.0,179.0,False,False,Frederiksberg
+A,Socialdemokratiet,Joan Pedersen,6,A,,joan__pedersen,648.0,90.0,False,False,Frederiksberg
+A,Socialdemokratiet,Kim Christiansen,173,A,,kim_christiansen_,129.0,24.0,False,False,Frederiksberg
+A,Socialdemokratiet,Kristoffer Appel,253,A,,kristoffer.appel,2929.0,525.0,False,False,Frederiksberg
+A,Socialdemokratiet,Mads Simonsen,19,A,,-,,,True,True,Frederiksberg
+A,Socialdemokratiet,Malou Astrup,123,A,,malouastrup,532.0,405.0,False,False,Frederiksberg
+A,Socialdemokratiet,Malte Mathies Løcke,406,A,,maltemathieslocke,856.0,181.0,False,False,Frederiksberg
+A,Socialdemokratiet,Marie-Louise Knuppert,16,A,,-,,,True,True,Frederiksberg
+A,Socialdemokratiet,Michael Vindfeldt,6550,A,,mvindfeldt,5424.0,836.0,False,False,Frederiksberg
+A,Socialdemokratiet,Mostafa Benyahia,17,A,,benyahia_mostafa,53.0,13.0,False,False,Frederiksberg
+A,Socialdemokratiet,Rasmus Edelberg,71,A,,rasmusedelberg,303.0,164.0,False,False,Frederiksberg
+A,Socialdemokratiet,Rune Rummel,98,A,,rune_rummel,163.0,32.0,False,False,Frederiksberg
+A,Socialdemokratiet,Sine Heltberg,509,A,,sineheltberg,270.0,230.0,False,False,Frederiksberg
+A,Socialdemokratiet,Sofie Kümpel,193,A,,sofiekumpel,781.0,209.0,False,False,Frederiksberg
+A,Socialdemokratiet,Susanne Nørlund Munk,125,A,,susannenoerlundmunk,307.0,65.0,False,False,Frederiksberg
+A,Socialdemokratiet,Søren Dahlstrøm,133,A,,s.dahlstroem,129.0,74.0,False,False,Frederiksberg
+A,Socialdemokratiet,Thomas Frank,129,A,,stilladsarbejderen,190.0,41.0,False,False,Frederiksberg
+A,Socialdemokratiet,Vibeke Westh,98,A,,stem_paa_vibeke_westh_,991.0,558.0,False,False,Frederiksberg
+B,Radikale Venstre,Anne Eskildsen,42,B,,alwe72,268.0,858.0,False,False,Frederiksberg
+B,Radikale Venstre,Freja Fokdal,1294,B,,fokdal,2697.0,2481.0,False,False,Frederiksberg
+B,Radikale Venstre,Isabel Havndrup Aackmann,587,B,,isabel.aackmann,682.0,76.0,False,False,Frederiksberg
+B,Radikale Venstre,Jens Otto Jarløv,55,B,,-,,,True,True,Frederiksberg
+B,Radikale Venstre,Jens-Christian Navarro Poulsen,44,B,,jc_navarro_poulsen,538.0,117.0,False,False,Frederiksberg
+B,Radikale Venstre,Karsten Lauritsen,146,B,,karstenlauritsen,119.0,53.0,False,False,Frederiksberg
+B,Radikale Venstre,Lone Loklindt,1548,B,,loneloklindt,1927.0,1417.0,False,False,Frederiksberg
+B,Radikale Venstre,Mirjam Marie Dyekjær,26,B,,mirjammarie,796.0,102.0,False,False,Frederiksberg
+B,Radikale Venstre,Per Toni Hansen,52,B,,pertoni56,50.0,5.0,False,False,Frederiksberg
+B,Radikale Venstre,Rikke Alice Bille,138,B,,rikke_alice,161.0,76.0,False,False,Frederiksberg
+B,Radikale Venstre,Torben Krogh,38,B,,krogh1947,64.0,0.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Alexandra Dessoy,619,C,,alexandradessoy,932.0,2164.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Anders Storgaard,717,C,,a_storgaard1,1297.0,228.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Ane Rolsted,318,C,,anerolsted,1016.0,930.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Anne Benard,19,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Brian Holm,844,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Carina Høedt,455,C,,carinahoeedt,805.0,312.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Carsten Volden,7,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Caspar Stefani,300,C,,casparstefani,2241.0,66.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Claus Wagenblast-Franck,307,C,,wfclaus,634.0,724.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Elias Lederhaas,74,C,,eliaslederhaas,235.0,22.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Else Marie Thorgaard,204,C,,elsemariethorgaard,408.0,246.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Fasael Rehman,443,C,,fasaelrehman,953.0,330.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Henrik Kragelund,216,C,,henrikkragelund,234.0,26.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Jacob Rosenberg,245,C,,jacobrosenberg4,698.0,423.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Jesper Ronald Jensen,58,C,,jesperronaldjensen,371.0,257.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Jimmy Streit,179,C,,jimmystreit01,210.0,12.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Klaus Eskelund,139,C,,klaus_eskelund,356.0,26.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Laura Lindahl,1457,C,,lauralindahl,3998.0,1390.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Maj-Britt Mathiesen,270,C,,m.mamsen,197.0,43.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Malou Ananiassen,51,C,,maloucheanne,1668.0,323.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Marie Budtz Andersen,62,C,,budtzky,130.0,30.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Merete Winther Hildebrandt,508,C,,meretewintherhildebrandt,507.0,321.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Michael Brautsch,4785,C,,michael_brautsch,629.0,263.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Nikolaj Bøgh,1070,C,,nikolaj.bogh.frederiksberg,1950.0,603.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Nikoline Ida Christiansen,118,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Peder Brandhof,55,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Rami Zouzou,90,C,,rami_zouzou,804.0,1640.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Rie Jakobsen,103,C,,rie_jak,344.0,31.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Silas T. H. Rasmussen,20,C,,silas_thr,846.0,235.0,False,False,Frederiksberg
+C,Det Konservative Folkeparti,Søren Brønchenburg,59,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Tina Jacobsen,98,C,,-,,,True,True,Frederiksberg
+C,Det Konservative Folkeparti,Torben Grinderslev,30,C,,grinderslevtorben,110.0,1.0,False,False,Frederiksberg
+D,Ham Stokken,Martin Skytte,12,D,,skyttoman,41.0,1.0,False,False,Frederiksberg
+E,Hvid-sten Frederiksbergs uafhængige Borgerliste,Per Odin Thiim Thim,30,E,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,August Gade,321,F,,ag.gaden,155.0,6.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Bjarke Bisgaard Yolal,73,F,,bjarkebisgaard,927.0,1529.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Carsten Dyring Nielsen,7,F,,carstendyringnielsen,294.0,207.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Carsten Nørballe,54,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,Henning C. Hansen,33,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,Henriette Cavling,20,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,Jesper Jerry Schou Nielsen,20,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,Julius Lundsteen,42,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,Lotte Kofoed,1216,F,,lottekofoed,1102.0,989.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Michella Lescher,335,F,,milescher,575.0,150.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Nikolaj Rachdi Bührmann,145,F,,nikolajbuhrmann,15.0,6.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Nina Wendt,109,F,,ninaawendt,1152.0,28.0,False,False,Frederiksberg
+F,SF - Socialistisk Folkeparti,Peter Kristiansen,21,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,René Hülz,43,F,,-,,,True,True,Frederiksberg
+F,SF - Socialistisk Folkeparti,Tomas Munch Nielsen,6,F,,thomasnielsen1965,230.0,324.0,False,False,Frederiksberg
+I,Liberal Alliance,Bettina Palle,25,I,,betpal,1665.0,1199.0,False,False,Frederiksberg
+I,Liberal Alliance,Frederik Tuxen Bjerrum,144,I,,frederik_tuxen_bjerrum,155.0,61.0,False,False,Frederiksberg
+I,Liberal Alliance,Henrik Karl Hierl,42,I,,hierlhenrik,734.0,311.0,False,False,Frederiksberg
+I,Liberal Alliance,Henrik Murmann,23,I,,-,,,True,True,Frederiksberg
+I,Liberal Alliance,Joseph Favilla,92,I,,josephfavilla,2460.0,606.0,False,False,Frederiksberg
+I,Liberal Alliance,Lars Berg Andersen,389,I,,larsbergandersen,632.0,227.0,False,False,Frederiksberg
+I,Liberal Alliance,Line Østergaard Olsen,41,I,,-,,,True,True,Frederiksberg
+J,Bitten Vivi Jensen,Bitten Vivi Jensen,112,J,,bittenvivi,692.0,66.0,False,False,Frederiksberg
+J,Bitten Vivi Jensen,Pierre Larsen,1,J,,-,,,True,True,Frederiksberg
+J,Bitten Vivi Jensen,Thomas Olsen,4,J,,-,,,True,True,Frederiksberg
+K,Kristendemokraterne,Helle Wulff,12,K,,wulffhelle,63.0,5.0,False,False,Frederiksberg
+M,Moderaterne,Cecilie Fisker,114,M,,ceciliefiskerr,1170.0,142.0,False,False,Frederiksberg
+M,Moderaterne,Helle Sjelle,269,M,,hellesjelle,776.0,357.0,False,False,Frederiksberg
+M,Moderaterne,Kurt Pii,12,M,,-,,,True,True,Frederiksberg
+M,Moderaterne,Mads Freund,24,M,,mads_freund,115.0,35.0,False,False,Frederiksberg
+M,Moderaterne,Thomas Jean Nielsen,74,M,,tvebak1970,227.0,353.0,False,False,Frederiksberg
+O,Dansk Folkeparti,Berit Christiansen,29,O,,-,,,True,True,Frederiksberg
+O,Dansk Folkeparti,Bodil Hebeltoft,78,O,,-,,,True,True,Frederiksberg
+O,Dansk Folkeparti,David Gerschwald,72,O,,-,,,True,True,Frederiksberg
+O,Dansk Folkeparti,Margit W. Peters,11,O,,-,,,True,True,Frederiksberg
+O,Dansk Folkeparti,Matthew Dawids,106,O,,matthewdawids,512.0,27.0,False,False,Frederiksberg
+T,Borgernes Frederiksberg,Claude Teisen-Simony,12,T,,-,,,True,True,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Brit Hovgaard,26,V,,brit_hovgaard,371.0,1216.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Casper Pedersen,136,V,,pedersencas,754.0,45.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Christian Ohm-Hieronymussen,25,V,,hierony67,63.0,30.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Frank Stjerne,3,V,,frank.stjerne,461.0,38.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Jan E. Jørgensen,1695,V,,jan_e_joergensen,3951.0,900.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Joachim Høyrup,9,V,,joachimhoeyrup,165.0,4.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Malene Sandfeld,241,V,,malene_sandfeld,1367.0,180.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Michael Schrøder,46,V,,-,,,True,True,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Per Ludvigsen,62,V,,-,,,True,True,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Per Paludan Hansen,16,V,,perpaludan,580.0,69.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Preben Boldt,18,V,,-,,,True,True,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Susanne Bonfils,13,V,,susannebonfils,72.0,68.0,False,False,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Søren Bach,37,V,,-,,,True,True,Frederiksberg
+V,"Venstre, Danmarks Liberale Parti",Søren Frost,58,V,,-,,,True,True,Frederiksberg
+Å,Alternativet,Annedorthe Kring,43,Å,,annedorthekring,76.0,76.0,False,False,Frederiksberg
+Å,Alternativet,Kim Hjerrild,128,Å,,kim_hjerrild,304.0,209.0,False,False,Frederiksberg
+Å,Alternativet,Mette Bram,359,Å,,alternativmette,331.0,91.0,False,False,Frederiksberg
+Å,Alternativet,Thomas Mølgaard Andersen,66,Å,,-,,,True,True,Frederiksberg
+Å,Alternativet,Tim Wodskou,83,Å,,timwodskou,81.0,8.0,False,False,Frederiksberg
+Æ,Danmarksdemokraterne - Inger Støjberg,Eva Bechmann,76,Æ,,evabechmann,357.0,14.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Anne Eggen,64,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Benjamin Birke Kirkeskov,6,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Bianca Vitting,659,Ø,,bvitting,330.0,,False,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Birgit Bech,66,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Christina Ytzen Lauridsen,31,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Connie Dupont,9,Ø,,conniedupont6,36.0,0.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Daniel Panduro,71,Ø,,danielpandurodk,1169.0,509.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Else Guldager,109,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Emil Samaras,345,Ø,,emil_samaras,2675.0,745.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Gabriel Egholm Rasmussen,81,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Jakob Ørsted,116,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Laurids Kristian Fahl,18,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Mads-Emil Gaardsvig Christensen,67,Ø,,madsemilc,574.0,53.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Marianne Rohde,13,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Mia Haugaard,187,Ø,,mia_michelle_haugaard,186.0,21.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Morten K. Christensen-Hornehøj,26,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Palle Bisgaard,183,Ø,,palle_bisgaard,229.0,0.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Pil Yildiz,525,Ø,,pilyildiz,648.0,128.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Rasmus Holme,838,Ø,,rasmusholme,1366.0,276.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Rosa Agersnap Bone,1423,Ø,,rosa.agersnap,3701.0,231.0,False,False,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Tilde Nordin Dræger,80,Ø,,-,,,True,True,Frederiksberg
+Ø,Enhedslisten - De Rød-Grønne,Tone Høybye,129,Ø,,tonehoybye,40.0,37.0,False,False,Frederiksberg
