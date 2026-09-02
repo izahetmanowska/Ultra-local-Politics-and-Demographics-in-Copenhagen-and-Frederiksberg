@@ -1,0 +1,21 @@
+feature,mean_abs_shap
+demo_Car_Households with 1 car,0.09472893668406525
+demo_Age_18-39,0.06586061746573033
+demo_Car_Households with no car,0.05747059658773309
+demo_Age_65+,0.05132065501960891
+demo_Citizenship_Old EU countries,0.03295754242467768
+demo_Vocational_training,0.02127168169454598
+demo_Housing type_People_Detached house,0.019112925438139926
+demo_Housing tenure_People_Ejer,0.018976903865407607
+demo_Housing tenure_People_Andel,0.011495896263872546
+demo_Housing type_People_Apartment buildings,0.010686549410894875
+elec_Voter turnout,0.010307555121270772
+demo_Car_Households with 2+ cars,0.009966327882268334
+demo_Citizenship_North America,0.007947283484263963
+demo_Citizenship_South and Central America,0.007846404237288183
+demo_Housing type_People_Terraced house,0.007199200714617832
+demo_Age_40-64,0.006455141189061729
+demo_Year built_People_Before 1960,0.004015628094945138
+demo_Sex_Male,0.0029074810108434095
+demo_Education_Long_higher_education,0.0024494357077589966
+demo_Year built_People_2010-9999,0.0013957212326141935
